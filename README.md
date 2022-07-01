@@ -25,3 +25,4 @@ Things you may want to cover:
 # bookers2
 # bookers2-favo
 # bookers2_favo
+# bookers2_favo
