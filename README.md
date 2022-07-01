@@ -27,3 +27,4 @@ Things you may want to cover:
 # bookers2_favo
 # bookers2_favo
 # bookers2-favo
+# bookers2-favo
